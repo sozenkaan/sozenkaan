@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 [Label-Color](https://img.shields.io/badge/LinkedIn-blue)
 https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
+https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
+
 
 
 
