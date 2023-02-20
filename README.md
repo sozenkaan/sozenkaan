@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 [Label-Color](https://img.shields.io/badge/LinkedIn-blue)
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 
 
 
